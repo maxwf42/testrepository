@@ -1,3 +1,3 @@
 # testrepository
 
-#testing how to make repositories on git
+#Copies of web scrapers made for Kansas State University
